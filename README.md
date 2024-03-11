@@ -4,6 +4,6 @@ This project includes the files created to test the swag labs website manually w
 The main objective of this project is to verify that the saucedemo website is functional and meets the requirements of
 the users.
 
-The document for the test plan of the website is: 
+The document for the test plan of the website is: testplandocument.pdf
 
 The document for the test cases of the website is: testcases.pdf
